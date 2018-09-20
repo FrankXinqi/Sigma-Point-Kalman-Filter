@@ -1,4 +1,4 @@
-function [x, P] = ckf_frank_v1(f_state, xhat, Pplus, h_meas, z, Q, R)
+function [x, P] = ckf(f_state, xhat, Pplus, h_meas, z, Q, R)
 %global Q R fai gama kesi w m;
 %% ---------------------------3rd-degree CKF----------------------
 
