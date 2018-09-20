@@ -1,4 +1,4 @@
-function [ x_hat, Sp ] = srckf_innovate( f_function, x_in, Sp_in, h_function, z_in, Sq_in, Sr_in)  
+function [ x_hat, Sp ] = srckf( f_function, x_in, Sp_in, h_function, z_in, Sq_in, Sr_in)  
   %[x,S]=ukf(fstate,x,S,hmeas,z,Qs,Rs)
   % CKF settings
   ckf_m = 2 * length(x_in);
