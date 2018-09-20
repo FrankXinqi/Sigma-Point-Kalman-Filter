@@ -8,3 +8,8 @@ If you have some good implementation, please feel free to contact me via frank.f
 
 If the code I update has copyright which I did not declare, please do not hesitate to contact me as well.
 
+List of algorithms:
+CKF, SRCKF;
+UKF, SRUKF;
+CDKF, SRCDKF (On going);
+
