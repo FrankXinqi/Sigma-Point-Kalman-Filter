@@ -12,4 +12,5 @@ List of algorithms:
 CKF, SRCKF;
 UKF, SRUKF;
 CDKF, SRCDKF (On going);
+QKF, SRQKF (On going);
 
