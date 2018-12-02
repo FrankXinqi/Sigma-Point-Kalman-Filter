@@ -1,16 +1,10 @@
 # Sigma-Point-Kalman-Filter
 
-I hope to give a comprehensive and easy-use sigma point kalman filter algorithms.
+I hope to give a comprehensive and easy-use sigma point Kalman filter algorithms codes.
 
-I will be writting and collecting all sigma-point-based Kalman filter algorithms.
+The algorithms are written by myself and collected from the Internet.
 
-If you have some good implementation, please feel free to contact me via frank.fanxinqi (AT) outlook.com.
-
-If the code I update has copyright which I did not declare, please do not hesitate to contact me as well.
-
-List of algorithms:
-CKF, SRCKF;
-UKF, SRUKF;
-CDKF, SRCDKF (On going);
-QKF, SRQKF (On going);
-
+The algorithms include:
+* Unscented Kalman Filter
+* Cubature Kalman Filter
+* Central Difference Kalman Filter
